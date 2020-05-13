@@ -12,7 +12,7 @@
 | Gender: | Male   |
 | Favourite colour:  | Black   |
 | Favourite food:  | Meat  |
-| Pineapple on pizza? : | <input type="checkbox" unchecked> |
+| Pineapple on pizza? : | <ul><li>[x] No</li><li>[ ] Yes</li></ul>|
 
 
 ---
