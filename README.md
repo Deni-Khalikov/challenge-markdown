@@ -49,5 +49,5 @@ if (joking) ->
 
 
 
-[Chris](https://github.com/chrishargan/challenge-markdown) Deni  [Dirk](https://github.com/Dirk-vg/challenge-markdown-Dirk)
+[<<Previous ||](https://github.com/chrishargan/challenge-markdown) Deni  [|| Next>>](https://github.com/Dirk-vg/challenge-markdown-Dirk)
 
