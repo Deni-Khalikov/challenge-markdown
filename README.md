@@ -2,7 +2,7 @@
 
 *I like chicken. I think I'll take all the chicken* 
 
-![My face](markdown-challenge/deni.jpeg)
+![My face](https://bit.ly/3bzxZbz)
 
 ## I hav no idea what I'm doing.
 
@@ -48,5 +48,5 @@ if (joking) ->
 
 
 
-<<previous>>
+[Crhis](url to the pages)  Deni  [Dirk](url)
 
